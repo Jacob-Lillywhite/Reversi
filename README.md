@@ -1,7 +1,7 @@
 # Reversi
 ---
 ***This project is still in the early stages of development.***
-A two player game of Reversi in Java.
+<br/>A two player game of Reversi in Java.
 ---
 ### A Gif depiction
 TODO
