@@ -5,7 +5,7 @@
 A two player game of Reversi in Java.
 ---
 ### A Gif depiction
-TODO
+![Reversi GIF](https://github.com/Jacob-Lillywhite/Reversi/blob/master/Screenshots/Reversi.gif)
 ---
 ### Future Improvements: 
 - [ ] Implement Victory Condition.
