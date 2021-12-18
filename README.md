@@ -9,4 +9,6 @@ A two player game of Reversi in Java.
 - [x] Implement Victory Condition.
 - [x] Implement basic AI opponent.
 - [x] Implement reset function.
+- [x] Implement turn display.
+- [ ] Implement running count. 
 - [ ] Clean Up code.
