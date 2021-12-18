@@ -1,13 +1,12 @@
 # Reversi
 ---
-***This project is still in the early stages of development.***
----
 A two player game of Reversi in Java.
 ---
 ### A Gif depiction
 ![Reversi GIF](https://github.com/Jacob-Lillywhite/Reversi/blob/master/Screenshots/Reversi2.gif)
 ---
 ### Future Improvements: 
-- [ ] Implement Victory Condition.
-- [ ] Implement basic AI opponent
-- [ ] Clean Up code
+- [x] Implement Victory Condition.
+- [x] Implement basic AI opponent.
+- [x] Implement reset function.
+- [ ] Clean Up code.
